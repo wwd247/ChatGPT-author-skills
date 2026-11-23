@@ -3,10 +3,8 @@
 **Free for the next 12 months.** Try all 24 skills without a fee and help us improve the plugin for version 2.0. [Download and install it](../../releases).
 
 ---
-
-
 ![ChatGPT-author-skills images showing promo thumbnail](docs/images/ChatGPT-Authors_Promo.jpeg)
-
+---
 
 ## Why this exists
 
