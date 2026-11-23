@@ -4,10 +4,6 @@
 
 ---
 
-
-![ChatGPT-author-skills images showing promo thumbnail](docs/images/ChatGPT-Authors_Promo.jpeg)
-
-
 ## Why this exists
 
 [Story Skills](https://github.com/danjdewhurst/story-skills) by Daniel Dewhurst is an excellent set of 24 skills for writing fiction, built for Claude.
